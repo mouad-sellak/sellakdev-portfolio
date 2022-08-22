@@ -67,7 +67,7 @@
 
 @media screen and (max-width:600px) {
     header{
-        height:125vh;
+        height:80vh;
         justify-content:center;
     }
     .header_media, .scroll_down{

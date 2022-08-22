@@ -78,9 +78,8 @@
     
     }
     .service_item > div{
-        width:66%;
+        width:100%;
         padding:0rem 0rem;
-        margin-left: 5rem;
         border-radius:  1.4rem 1.4rem 0.5rem  0.5rem;
         border:1px solid transparent;
         transition:var(--transition);
