@@ -54,7 +54,7 @@ function Services() {
       <h2>Services</h2>
       <div className="container services_container" >
 
-        {services.map(({title,content})=>(
+        {data.map(({title,content})=>(
         <article className="service_item" >
           <div>
             <div className="service_title">
