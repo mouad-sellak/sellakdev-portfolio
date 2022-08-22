@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sellakdev-portfolio/static/css/main.0fe6abf1.css",
+    "main.js": "/sellakdev-portfolio/static/js/main.d3415f34.js",
+    "static/media/gestiofact.png": "/sellakdev-portfolio/static/media/gestiofact.b68cc033d5fbeefbd408.png",
+    "static/media/planningmanage.png": "/sellakdev-portfolio/static/media/planningmanage.c0e89d7a115bba92fee0.png",
+    "static/media/finotbib.png": "/sellakdev-portfolio/static/media/finotbib.e21244e21ff30e0daa35.png",
+    "static/media/guessapp.png": "/sellakdev-portfolio/static/media/guessapp.449c7a1355de41a7f8d4.png",
+    "static/media/laraemp.png": "/sellakdev-portfolio/static/media/laraemp.e8bd0397b1b3cc2a93eb.png",
+    "static/media/aboutme.png": "/sellakdev-portfolio/static/media/aboutme.9f0d2ae721acc225fff2.png",
+    "static/media/me.png": "/sellakdev-portfolio/static/media/me.ed7977464ddd0fab9fd8.png",
+    "static/media/myCV.pdf": "/sellakdev-portfolio/static/media/myCV.6d79cebbf4dbe7bc1e5f.pdf",
+    "index.html": "/sellakdev-portfolio/index.html",
+    "main.0fe6abf1.css.map": "/sellakdev-portfolio/static/css/main.0fe6abf1.css.map",
+    "main.d3415f34.js.map": "/sellakdev-portfolio/static/js/main.d3415f34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe6abf1.css",
+    "static/js/main.d3415f34.js"
+  ]
+}
