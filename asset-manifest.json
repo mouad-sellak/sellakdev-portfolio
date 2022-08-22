@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sellakdev-portfolio/static/css/main.0fe6abf1.css",
-    "main.js": "/sellakdev-portfolio/static/js/main.d3415f34.js",
+    "main.js": "/sellakdev-portfolio/static/js/main.a2131351.js",
     "static/media/gestiofact.png": "/sellakdev-portfolio/static/media/gestiofact.b68cc033d5fbeefbd408.png",
     "static/media/planningmanage.png": "/sellakdev-portfolio/static/media/planningmanage.c0e89d7a115bba92fee0.png",
     "static/media/finotbib.png": "/sellakdev-portfolio/static/media/finotbib.e21244e21ff30e0daa35.png",
@@ -12,10 +12,10 @@
     "static/media/myCV.pdf": "/sellakdev-portfolio/static/media/myCV.6d79cebbf4dbe7bc1e5f.pdf",
     "index.html": "/sellakdev-portfolio/index.html",
     "main.0fe6abf1.css.map": "/sellakdev-portfolio/static/css/main.0fe6abf1.css.map",
-    "main.d3415f34.js.map": "/sellakdev-portfolio/static/js/main.d3415f34.js.map"
+    "main.a2131351.js.map": "/sellakdev-portfolio/static/js/main.a2131351.js.map"
   },
   "entrypoints": [
     "static/css/main.0fe6abf1.css",
-    "static/js/main.d3415f34.js"
+    "static/js/main.a2131351.js"
   ]
 }
