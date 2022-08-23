@@ -5,6 +5,7 @@ import laraemp from '../../assets/laraemp.png'
 import planningmanage from '../../assets/planningmanage.png'
 import gestiofact from '../../assets/gestiofact.png'
 import guessapp from '../../assets/guessapp.png'
+import djangoblog from '../../assets/djangoblog.png'
 import Modal from './Modal'
 function Portfolio() {
   const [openModal, setOpenModal] = useState(false)
@@ -12,43 +13,51 @@ function Portfolio() {
   const data = [
     {
       id:1,
-      title: "FinoTbib Mobile App",
-      img: finotbib,
-      github:"https://www.github.com" ,
-      describe:" This is a mobile app built with React Native and PHP, it helps seek people to find the nearest doctor to their neighboor whith the fatest way. "
-    },
-    {
-      id:2,
-      title: "LaraEmp Web App",
-      img: laraemp,
-      github:"https://www.github.com",
-      describe:" This is employees management web app devloped with laravel and admin lte, it's main purpose is to make easy the management of a company employees as storing, showing, updating their data      "
+      title: "GestioFact Web App",
+      img:  gestiofact,
+      github:"https://github.com/mouad-sellak/gestiofact-management-php",
+      describe:"  Its a back office web application developed in order to facilitate invoices and billing management for a good client experience."
 
     },
     {
+      id:2,
+      title: "FinoTbib Mobile App",
+      img: finotbib,
+      github:"https://github.com/OussamaWR/FinoTbibAppReactNative" ,
+      describe:" This is a mobile app built with React Native and PHP, it helps seek people to find the nearest doctor to their neighboor whith the fatest way. "
+    },
+    {
       id:3,
-      title: "Planning Management App",
-      img:  planningmanage ,
-      github:"https://www.github.com",
-      describe:"   This is a monoletic php wab application that helps project managers inside a company to manage and scheduel suitable plannig for a good and fruitful work"
+      title: "LaraEmp Web App",
+      img: laraemp,
+      github:"https://github.com/mouad-sellak/employees-management-laravel",
+      describe:" This is an employees management web application devloped with laravel and admin lte, it's main purpose is to make easy the management of a company employees as storing, showing, updating their data      "
 
     },
     {
       id:4,
       title: "Simple GueesNum App",
       img:  guessapp,
-      github:"https://www.github.com" ,
+      github:"https://github.com/mouad-sellak/guessingnumber-game-react-native" ,
       describe:"   For learning purposes I developed a simple react native mobile application that helps user to enjoy guessing number game."
 
     },
     {
       id:5,
-      title: "GestioFact Web App",
-      img:  gestiofact,
-      github:"https://www.github.com",
-      describe:"  Its a back office web application developed in order to facilitate invoice and billing management for a good client experience."
+      title: "Django Blog Web App",
+      img:  djangoblog,
+      github:"https://github.com/mouad-sellak/django-blog",
+      describe:"  Its a django website I developed for learning purposes, its main idea is to present bright coding platform products and services."
+
+    },{
+      id:6,
+      title: "Planning Management App",
+      img:  planningmanage ,
+      github:"https://github.com/mouad-sellak/planning-management-php",
+      describe:"  It is a monolithic PHP web application that helps project managers within a company to manage and plan proper planning for good and successful work"
 
     }
+  
   ]
   return ( 
     <section id="portfolio">
