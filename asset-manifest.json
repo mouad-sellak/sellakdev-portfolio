@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/sellakdev-portfolio/static/css/main.0526a3bf.css",
-    "main.js": "/sellakdev-portfolio/static/js/main.a2131351.js",
+    "main.css": "/sellakdev-portfolio/static/css/main.477e7d6a.css",
+    "main.js": "/sellakdev-portfolio/static/js/main.b10e2239.js",
     "static/media/gestiofact.png": "/sellakdev-portfolio/static/media/gestiofact.b68cc033d5fbeefbd408.png",
+    "static/media/djangoblog.png": "/sellakdev-portfolio/static/media/djangoblog.3ded88945f9a477133af.png",
     "static/media/planningmanage.png": "/sellakdev-portfolio/static/media/planningmanage.c0e89d7a115bba92fee0.png",
     "static/media/finotbib.png": "/sellakdev-portfolio/static/media/finotbib.e21244e21ff30e0daa35.png",
     "static/media/guessapp.png": "/sellakdev-portfolio/static/media/guessapp.449c7a1355de41a7f8d4.png",
@@ -11,11 +12,11 @@
     "static/media/me.png": "/sellakdev-portfolio/static/media/me.ed7977464ddd0fab9fd8.png",
     "static/media/myCV.pdf": "/sellakdev-portfolio/static/media/myCV.6d79cebbf4dbe7bc1e5f.pdf",
     "index.html": "/sellakdev-portfolio/index.html",
-    "main.0526a3bf.css.map": "/sellakdev-portfolio/static/css/main.0526a3bf.css.map",
-    "main.a2131351.js.map": "/sellakdev-portfolio/static/js/main.a2131351.js.map"
+    "main.477e7d6a.css.map": "/sellakdev-portfolio/static/css/main.477e7d6a.css.map",
+    "main.b10e2239.js.map": "/sellakdev-portfolio/static/js/main.b10e2239.js.map"
   },
   "entrypoints": [
-    "static/css/main.0526a3bf.css",
-    "static/js/main.a2131351.js"
+    "static/css/main.477e7d6a.css",
+    "static/js/main.b10e2239.js"
   ]
 }
