@@ -31,7 +31,7 @@ function Portfolio() {
       title: "LaraEmp Web App",
       img: laraemp,
       github:"https://github.com/mouad-sellak/employees-management-laravel",
-      describe:" This is an employees management web application devloped with laravel and admin lte, it's main purpose is to make easy the management of a company employees as storing, showing, updating their data      "
+      describe:" This is an employees management web application devloped with laravel and admin lte, it's main purpose is to make easy the management of a company employees.     "
 
     },
     {
