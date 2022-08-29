@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sellakdev-portfolio/static/css/main.477e7d6a.css",
-    "main.js": "/sellakdev-portfolio/static/js/main.dc506674.js",
+    "main.js": "/sellakdev-portfolio/static/js/main.bc71b348.js",
     "static/media/gestiofact.png": "/sellakdev-portfolio/static/media/gestiofact.b68cc033d5fbeefbd408.png",
     "static/media/djangoblog.png": "/sellakdev-portfolio/static/media/djangoblog.3ded88945f9a477133af.png",
     "static/media/planningmanage.png": "/sellakdev-portfolio/static/media/planningmanage.c0e89d7a115bba92fee0.png",
@@ -13,10 +13,10 @@
     "static/media/myCV.pdf": "/sellakdev-portfolio/static/media/myCV.6d79cebbf4dbe7bc1e5f.pdf",
     "index.html": "/sellakdev-portfolio/index.html",
     "main.477e7d6a.css.map": "/sellakdev-portfolio/static/css/main.477e7d6a.css.map",
-    "main.dc506674.js.map": "/sellakdev-portfolio/static/js/main.dc506674.js.map"
+    "main.bc71b348.js.map": "/sellakdev-portfolio/static/js/main.bc71b348.js.map"
   },
   "entrypoints": [
     "static/css/main.477e7d6a.css",
-    "static/js/main.dc506674.js"
+    "static/js/main.bc71b348.js"
   ]
 }
