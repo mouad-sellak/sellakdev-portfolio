@@ -23,7 +23,7 @@ function Footer() {
         <a href="https://www.linkedin.com/in/mouad-sellak/" target="_blank"><BsLinkedin/></a>
         <a href="https://www.facebook.com/mouad.sellak.7/" target="_blank"><BsFacebook/></a>
         <a href="https://www.instagram.com/mouaadsellak/" target="_blank"><FaInstagramSquare/></a>
-				<a href="https://api.whatsapp.com/send?phone=+212637499636" target="_blank"><FaWhatsappSquare/></a>
+				<a href="https://api.whatsapp.com/send?phone=0637499636" target="_blank"><FaWhatsappSquare/></a>
 				<a href="https://twitter.com/SellakMouad" target="_blank"><FaTwitterSquare/></a>
         <a href="mailto:mouaadsellak123@gmail.com" target="_blank"><SiGmail/></a>
 				<a href="https://www.youtube.com/channel/UCXF-qYZji_hGw3mKuvE_YnQ" target="_blank"><GrYoutube size={28} /></a>
